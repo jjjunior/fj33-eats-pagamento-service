@@ -1,0 +1,8 @@
+br/com/caelum/eats/pagamento/CorsConfig.class
+br/com/caelum/eats/pagamento/EatsPagamentoServiceApplication.class
+br/com/caelum/eats/pagamento/Pagamento$Status.class
+br/com/caelum/eats/pagamento/Pagamento.class
+br/com/caelum/eats/pagamento/PagamentoController.class
+br/com/caelum/eats/pagamento/PagamentoRepository.class
+br/com/caelum/eats/pagamento/PagamentoDto.class
+br/com/caelum/eats/pagamento/ResourceNotFoundException.class
